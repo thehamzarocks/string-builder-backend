@@ -1,0 +1,9 @@
+{
+    "name": "string-builder-backend",
+    "version": "0.0.1",
+    "description": "The backend for string-builder",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^4.0.1"
+    }
+}
